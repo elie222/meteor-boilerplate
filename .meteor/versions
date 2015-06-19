@@ -9,6 +9,7 @@ aldeed:simple-schema@1.3.3
 aldeed:tabular@1.2.0
 aldeed:template-extension@3.4.3
 autoupdate@1.2.1
+babrahams:editable-json@0.4.3
 base64@1.0.3
 binary-heap@1.0.3
 blaze@2.1.2
@@ -18,6 +19,7 @@ callback-hook@1.0.3
 check@1.0.5
 coffeescript@1.0.6
 dburles:collection-helpers@1.0.3
+dburles:mongo-collection-instances@0.3.3
 ddp@1.1.0
 deps@1.0.7
 ejson@1.0.6
@@ -25,6 +27,7 @@ email@1.0.6
 fastclick@1.0.3
 fortawesome:fontawesome@4.3.0
 geojson-utils@1.0.3
+gwendall:session-json@0.1.7
 handlebars@1.0.3
 html-tools@1.0.4
 htmljs@1.0.4
@@ -42,6 +45,7 @@ joshowens:accounts-entry@1.0.3
 joshowens:simple-form@0.2.2
 jquery@1.11.3_2
 json@1.0.3
+lai:collection-extensions@0.1.3
 launch-screen@1.0.2
 less@1.0.14
 livedata@1.0.13
@@ -51,6 +55,7 @@ meteor@1.1.6
 meteor-platform@1.2.2
 meteorhacks:meteorx@1.0.2
 meteorhacks:unblock@1.1.0
+meteortoys:toykit@0.7.0
 minifiers@1.1.5
 minimongo@1.0.8
 mobile-status-bar@1.0.3
@@ -59,6 +64,8 @@ mongo@1.1.0
 mongo-livedata@1.0.8
 mrt:planet@0.2.2
 mrt:underscore-string-latest@2.3.3
+msavin:jetsetter@1.0.17
+msavin:mongol@1.0.97
 multiply:iron-router-progress@1.0.1
 nemo64:bootstrap@3.3.4_2
 nemo64:bootstrap-data@3.3.4_1
