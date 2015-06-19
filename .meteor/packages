@@ -14,8 +14,6 @@ alanning:roles
 nemo64:bootstrap
 yogiben:admin
 fortawesome:fontawesome
-# replace this with useraccounts
-joshowens:accounts-entry
 dburles:collection-helpers
 yogiben:helpers
 multiply:iron-router-progress
@@ -24,3 +22,4 @@ zimme:iron-router-active
 accounts-ui
 msavin:mongol
 msavin:jetsetter
+useraccounts:bootstrap
